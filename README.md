@@ -1,2 +1,8 @@
 # Matplotlib-Homework
 Pymaceuticals Inc, analysis
+
+
+Observations
+Throughout this homework, we analyzed data from a study of different treatment regimens and the affect of them on mice with cancer.  By merging 2 sets of data, the information from each treatment regimen is easily accessible and readable.  We can see that the treatment regimen Capomulin had the highest number of mice in it where as Propiva has the lest amount of mice.  This can be seen in the bar charts.  When looking at the mice, we can see that in terms of biological sex, we can see that the numbers are equal among female and male mice. 
+While using the data sets in a box plot we can see that the treatment regimen of Ceftamin has the widest range of end tumor volumes, showing it had a more spread out set of data.  The Ceftamin also has long whiskers like Infubinol as well, showing they, both have a wider set of data.  We can also see that Capomulin and Ramicane both have small box plots with only one whisker on the top.  These values are much more similar and closer together.
+When evaluating the correlation and regression, we can use the linear regression and correlation of the data sets.  Suing this we can see the correlation of the weight and average tumor volume is .84.  This shows a positive, strong correlation between the mouse weight and the end tumor volume.  The R squared is also .84, meaning the data is considered to be reliable and .  Using the data, it would be easy to predict what a final tumor volume would be for a set value of the weight.  The information in this study is positive, reliable, and correlated. 
